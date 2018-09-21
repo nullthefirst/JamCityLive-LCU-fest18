@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
-import '../App.css'
+import '../Dark.css'
 
-class Intro extends Component {
+export default class History extends Component {
   render() {
     return (
       <div>
-        <h1>Hello World</h1>
+        <h1>Hello History</h1>
       </div>
     );
   }
 }
-
-export default Intro;
