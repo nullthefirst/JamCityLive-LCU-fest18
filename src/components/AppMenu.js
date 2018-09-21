@@ -26,7 +26,7 @@ export default class AppMenu extends Component {
             <Navbar.Collapse>
               <Nav pullRight>
                 <NavItem>
-                  <Link to="/">Overview</Link>
+                  <Link to="/">Home</Link>
                 </NavItem>
                 <NavItem>
                   <Link to="/goals">Goals</Link>
