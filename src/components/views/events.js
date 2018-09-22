@@ -21,8 +21,14 @@ export default class Events extends Component {
             <tr>
               <td>1.</td>
               <td>Friday, 9th Nov.</td>
-              <td>Friday, 9th Nov.</td>
               <td><b>Show Biz 101</b> (Conference Center)</td>
+              <td>
+                <ol type="a">
+                  <li>Music Seminar & Workshop</li>
+                  <li>Cinematography and Audio-Visual Seminar & <em>Workshop</em></li>
+                  <li>Entertainment Law, Contracts & Career advice</li>
+                </ol>
+              </td>
               <td><em>12pm - 4pm</em></td>
             </tr>
           </tbody>
