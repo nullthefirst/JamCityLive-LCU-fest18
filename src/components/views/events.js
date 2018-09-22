@@ -69,6 +69,17 @@ export default class Events extends Component {
               <td>" "</td>
               <td><b>#JamCityPlayoffs</b> (Stadium)</td>
               <td>
+                Sporting Contests involving specific amount of teams in various sports
+                <br />
+                Preliminary rounds before the festival and the finals with prizes during the festival
+              </td>
+              <td><em>2pm – 6pm</em></td>
+            </tr>
+            <tr>
+              <td>6.</td>
+              <td>" "</td>
+              <td><b>Cook-Off & Entrepreneurial Development Program (EDP) – Exhibitions</b> (Car Park)</td>
+              <td>
                 <ol type="a">
                   <li>10 participants for Cook-off with 3 emerging as winners</li>
                   <li>First 3 will be awarded prizes</li>
@@ -77,18 +88,41 @@ export default class Events extends Component {
                   <li>Fashion Show for Student Models wearing Student made attires</li>
                 </ol>
               </td>
-              <td><em>" "</em></td>
+              <td><em>8am – 12pm</em></td>
             </tr>
             <tr>
-              <td>6.</td>
+              <td>7.</td>
               <td>" "</td>
-              <td><b>Cook-Off & Entrepreneurial Development Program (EDP) – Exhibitions</b> (Car Park)</td>
+              <td><b>FAYA Fest (Festival Bonfire)</b> (Enterprise Field)</td>
               <td>
-                Sporting Contests involving specific amount of teams in various sports.
-                <br />
-                Preliminary rounds before the festival and the finals with prizes during the festival.
+                <ol type="a">
+                  <li>Music by Top DJ’s</li>
+                  <li>Camp Fire</li>
+                  <li>Food</li>
+                  <li>Games and Fireworks</li>
+                </ol>
               </td>
-              <td><em>" "</em></td>
+              <td><em>10pm – 3am</em></td>
+            </tr>
+            <tr>
+              <td>8.</td>
+              <td>Sunday, 11th Nov.</td>
+              <td><b>City Wars (Paintball Tourney)</b></td>
+              <td>Installation of arena and various teams battle to be victorious at the game</td>
+              <td><em>10am - 3pm</em></td>
+            </tr>
+            <tr>
+              <td>9.</td>
+              <td>" "</td>
+              <td><b>SMVDE MEMORIAL CONCERT</b></td>
+              <td>
+                <ol type="1">
+                  <li>A music concert to commemorate SMADE, an LCU student who died in a car crash on June 10,2018</li>
+                  <li>LCU All-stars, Red Carpet, Dance, Comedy, Display
+of Smade’s works and more. (ADELINE HALL)</li>
+                </ol>
+              </td>
+              <td><em>6pm – 10pm</em></td>
             </tr>
           </tbody>
         </Table>
