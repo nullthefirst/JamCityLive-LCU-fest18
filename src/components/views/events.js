@@ -10,14 +10,22 @@ export default class Events extends Component {
         <Table striped bordered condensed hover responsive>
           <thead>
             <tr>
-              <th>SN</th>
-              <th>Day</th>
-              <th>Event</th>
-              <th>Activities</th>
-              <th>Time</th>
+              <th><h4>SN</h4></th>
+              <th><h4>Day</h4></th>
+              <th><h4>Event</h4></th>
+              <th><h4>Activities</h4></th>
+              <th><h4>Time</h4></th>
             </tr>
           </thead>
-          <tbody></tbody>
+          <tbody>
+            <tr>
+              <td>1.</td>
+              <td>Friday, 9th Nov.</td>
+              <td>Friday, 9th Nov.</td>
+              <td><b>Show Biz 101</b> (Conference Center)</td>
+              <td><em>12pm - 4pm</em></td>
+            </tr>
+          </tbody>
         </Table>
       </div>
     );
