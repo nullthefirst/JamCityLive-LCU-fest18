@@ -31,6 +31,31 @@ export default class Events extends Component {
               </td>
               <td><em>12pm - 4pm</em></td>
             </tr>
+            <tr>
+              <td>2.</td>
+              <td>" "</td>
+              <td><b>#CITYconValley</b> (ROC World)</td>
+              <td>
+                <ol type="a">
+                  <li>IT Convention & Contests</li>
+                  <li>Gamers Convention & Tourneys</li>
+                </ol>
+              </td>
+              <td><em>12pm - 4pm</em></td>
+            </tr>
+            <tr>
+              <td>3.</td>
+              <td>" "</td>
+              <td><b>Friday Night Spice</b> (Stadium)</td>
+              <td>
+                <ol type="a">
+                  <li>Repeckt Tha Mic (Music Competition)</li>
+                  <li> Music, Fair and more</li>
+                  <li> Music, Fair and more</li>
+                </ol>
+              </td>
+              <td><em>12pm - 4pm</em></td>
+            </tr>
           </tbody>
         </Table>
       </div>
