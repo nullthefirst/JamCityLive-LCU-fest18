@@ -59,17 +59,36 @@ export default class Events extends Component {
             </tr>
             <tr>
               <td>4.</td>
+              <td>Saturday, 10th Nov.</td>
+              <td><b>Community Service</b></td>
+              <td>Volunteers’ Visitation to aid the less privileged providing supplies and support in various ways possible.</td>
+              <td><em>8am – 12pm</em></td>
+            </tr>
+            <tr>
+              <td>5.</td>
               <td>" "</td>
-              <td><b>Friday Night Spice</b> (Stadium)</td>
+              <td><b>#JamCityPlayoffs</b> (Stadium)</td>
               <td>
                 <ol type="a">
-                  <li>Repeckt Tha Mic (Music Competition)</li>
-                  <li>Music, Fair and more</li>
-                  <li>Fireworks</li>
-                  <li>Movie Screening</li>
+                  <li>10 participants for Cook-off with 3 emerging as winners</li>
+                  <li>First 3 will be awarded prizes</li>
+                  <li>Simultaneous Exhibition of Projects and work materials from LCU’s EDP</li>
+                  <li>Side Attractions: Freebies, Music, Fair (etc)</li>
+                  <li>Fashion Show for Student Models wearing Student made attires</li>
                 </ol>
               </td>
-              <td><em>7pm - 11pm</em></td>
+              <td><em>" "</em></td>
+            </tr>
+            <tr>
+              <td>6.</td>
+              <td>" "</td>
+              <td><b>Cook-Off & Entrepreneurial Development Program (EDP) – Exhibitions</b> (Car Park)</td>
+              <td>
+                Sporting Contests involving specific amount of teams in various sports.
+                <br />
+                Preliminary rounds before the festival and the finals with prizes during the festival.
+              </td>
+              <td><em>" "</em></td>
             </tr>
           </tbody>
         </Table>
