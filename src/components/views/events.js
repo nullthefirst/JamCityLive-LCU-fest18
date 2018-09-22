@@ -41,7 +41,7 @@ export default class Events extends Component {
                   <li>Gamers Convention & Tourneys</li>
                 </ol>
               </td>
-              <td><em>12pm - 4pm</em></td>
+              <td><em>" "</em></td>
             </tr>
             <tr>
               <td>3.</td>
@@ -50,11 +50,26 @@ export default class Events extends Component {
               <td>
                 <ol type="a">
                   <li>Repeckt Tha Mic (Music Competition)</li>
-                  <li> Music, Fair and more</li>
-                  <li> Music, Fair and more</li>
+                  <li>Music, Fair and more</li>
+                  <li>Fireworks</li>
+                  <li>Movie Screening</li>
                 </ol>
               </td>
-              <td><em>12pm - 4pm</em></td>
+              <td><em>7pm - 11pm</em></td>
+            </tr>
+            <tr>
+              <td>4.</td>
+              <td>" "</td>
+              <td><b>Friday Night Spice</b> (Stadium)</td>
+              <td>
+                <ol type="a">
+                  <li>Repeckt Tha Mic (Music Competition)</li>
+                  <li>Music, Fair and more</li>
+                  <li>Fireworks</li>
+                  <li>Movie Screening</li>
+                </ol>
+              </td>
+              <td><em>7pm - 11pm</em></td>
             </tr>
           </tbody>
         </Table>
