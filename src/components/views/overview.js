@@ -9,7 +9,6 @@ export default class Overview extends Component {
     return (
       <div>
         <h1>Overview</h1>
-        <Image className="pic" src={'https://res.cloudinary.com/poetrique/image/upload/v1538031478/clients/jamcitylive/iFoundMyInterest.jpg'} title="iFoundMyInterest" alt="iFoundMyInterest" />
         <Tabs defaultActiveKey={1}>
           <Tab eventKey={1} title="Info 1">
             <Image className="pic" src={'https://res.cloudinary.com/poetrique/image/upload/c_scale,w_316/v1537693154/clients/jamcitylive/fest1.jpg'} title="Fest 1" alt="Fest 1" />
