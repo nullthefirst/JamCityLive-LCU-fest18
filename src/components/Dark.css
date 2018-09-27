@@ -17,3 +17,8 @@ tr {
 .pic {
   margin: 1em 0 1em 0;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}

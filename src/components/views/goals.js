@@ -28,7 +28,7 @@ export default class Goals extends Component {
             <span><span className="sky">f)</span> To help improve skills in order to innovate to flush out mediocrity in various sectors of the community and economy.</span>
           </ListGroupItem>
         </ListGroup>
-        <img className="pic" src={'https://res.cloudinary.com/poetrique/image/upload/v1538031478/clients/jamcitylive/iFoundMyInterest.jpg'} title="iFoundMyInterest" alt="iFoundMyInterest" responsive />
+        <Image className="pic responsive" src={'https://res.cloudinary.com/poetrique/image/upload/v1538031478/clients/jamcitylive/iFoundMyInterest.jpg'} title="iFoundMyInterest" alt="iFoundMyInterest" />
       </div>
     );
   }
