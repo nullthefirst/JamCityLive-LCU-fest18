@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import  { Image } from 'react-bootstrap';
 import '../Dark.css'
 
 export default class History extends Component {
