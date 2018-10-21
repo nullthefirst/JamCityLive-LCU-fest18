@@ -12,7 +12,7 @@ export default class Overview extends Component {
         <Tabs defaultActiveKey={1}>
           <Tab eventKey={1} title="Info 1">
             <Image className="pic" src={'https://res.cloudinary.com/poetrique/image/upload/c_scale,w_316/v1537693154/clients/jamcitylive/fest1.jpg'} title="Fest 1" alt="Fest 1" />
-            <p><b>Jam City Live</b> will carry out the <b>3rd Edition</b> of the <b>Lead City Jam City Festival of Music and Culture</b>, in <b>November 2018</b>, partnering with the prestigious <b>Lead City University, Ibadan</b> and <b>Roc World Consulting Services LTD</b>.</p>
+            <p><b>Jam City Live</b> will carry out the <b>3rd Edition</b> of the <b>Lead City Jam City Festival of Music and Culture</b>, in <b>November 2018</b>, partnering with the prestigious <b>Lead City University, Ibadan</b>.</p>
             <p>The <b>Jam City Live Program</b> has over the years provided platforms for various young talented individuals. The program has enabled them to find their interests in various fields of expertise while learning by practice in order hone their crafts in the various industries and skills as they   venture into.</p>
             <p>However, over the years, the Lead City Jam City Festival of Music and Culture has been the ultimate platform for all the various participants of the program to showcase their talents to a widespread audience within a <b>3-day period</b> of varieties of events, programs and opportunities.</p>
           </Tab>
