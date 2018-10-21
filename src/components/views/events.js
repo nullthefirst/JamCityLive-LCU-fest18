@@ -34,7 +34,7 @@ export default class Events extends Component {
             <tr>
               <td>2.</td>
               <td>" "</td>
-              <td><b>#CITYconValley</b> (ROC World)</td>
+              <td><b>#CITYconValley</b></td>
               <td>
                 <ol type="a">
                   <li>IT Convention & Contests</li>
