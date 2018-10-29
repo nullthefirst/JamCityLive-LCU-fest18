@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import AppMenu from './components/AppMenu';
 import Social from './components/Social';
+import Upload from './components/Upload';
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -9,6 +10,8 @@ class App extends Component {
       <div>
         <AppMenu />
         <Social />
+        <br />
+        <Upload />
         <Footer />
       </div>
     );
