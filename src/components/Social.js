@@ -23,11 +23,10 @@ export default class Social extends Component {
           <Row>
             <Col xsHidden md={4}></Col>
             <Col xs={12} md={4}>
-              <Col xs={2}></Col>
-              <Col xs={3}>
+              <Col xs={4}>
                 <a href="https://www.facebook.com/Jamcitylive-197527667361504/"><i class="fab fa-facebook-square fa-3x"></i></a>
               </Col>
-              <Col xs={3}>
+              <Col xs={4}>
                 <a href="https://instagram.com/jamcitylive"><i class="fab fa-instagram fa-3x"></i></a>
               </Col>
               <Col xs={4}>
