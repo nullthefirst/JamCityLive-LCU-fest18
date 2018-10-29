@@ -4,7 +4,7 @@ import './Dark.css';
 
 const footerStyle = {
   textAlign: "center",
-  marginTop: "2em"
+  marginTop: "4em"
 };
 
 const linkDark = {
