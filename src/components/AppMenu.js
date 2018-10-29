@@ -8,6 +8,7 @@ import './Dark.css';
 
 import Overview from './views/overview';
 import Goals from './views/goals';
+import Gallery from './views/gallery';
 import Events from './views/events';
 import History from './views/history';
 
@@ -32,6 +33,9 @@ export default class AppMenu extends Component {
                   <Link to="/goals">Goals</Link>
                 </NavItem>
                 <NavItem>
+                  <Link to="/gallery">Gallery</Link>
+                </NavItem>
+                <NavItem>
                   <Link to="/events">Events</Link>
                 </NavItem>
                 <NavItem>
@@ -43,6 +47,7 @@ export default class AppMenu extends Component {
 
           <Route exact path="/" component={Overview} />
           <Route path="/goals" component={Goals} />
+          <Route path="/gallery" component={Gallery} />
           <Route path="/events" component={Events} />
           <Route path="/history" component={History} />
 

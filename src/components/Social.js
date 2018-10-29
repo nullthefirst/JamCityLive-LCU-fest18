@@ -5,7 +5,8 @@ import { Col } from 'react-bootstrap';
 
 const powerStyle = {
   textAlign: "center",
-  marginBottom: "1em"
+  marginBottom: "1em",
+  textDecoration: "underline"
 }
 
 export default class Social extends Component {
